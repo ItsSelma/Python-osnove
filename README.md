@@ -20,4 +20,5 @@ Namijenjen je apsolutnim početnicima koji žele naučiti Python od samog počet
 
 **Napomena:** Ovaj repozitorij je za ličnu upotrebu i učenje.
 ---
+**Napomena2:** Vlasnik ovog github profila je sirotinja studentska (kokuz) i nema para za certifikat, nadam se da će priloženi kodovi biti dovoljan dokaz mog rada.
 
