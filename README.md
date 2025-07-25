@@ -18,6 +18,9 @@ Namijenjen je apsolutnim početnicima koji žele naučiti Python od samog počet
 - Zvanična stranica za učenje: [LearnPython.org](https://learnpython.org)
 - Dodatni materijali : [Bro Code- Python modules](https://www.youtube.com/watch?v=XcfxkHrHTVE),
 - [NeuralLine- Moduli, Paketi, Biblioteke](https://www.youtube.com/watch?v=GUXxLy68EF8),
+- [Telusko- Generatori](https://www.youtube.com/watch?v=mziIj4M_uwk)
+- [w3school python](https://www.w3schools.com/python)
+- [NeuralLine - Partial functions] (https://www.youtube.com/watch?v=FocYBzjwBEM)
 
 ---
 
